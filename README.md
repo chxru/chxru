@@ -1,6 +1,6 @@
 ### Heyyoo 👋
 
-I'm Charuka Samarakoon. I am coding as a hobby 
+I'm Charuka Samarakoon. I am coding as a hobby  
 JS 💛
   
 🎓 Undergraduate student in University of Ruhuna  
